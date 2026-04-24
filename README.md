@@ -34,7 +34,7 @@ A 3D-printable model of the Aetheryte crystal from Final Fantasy XIV, built in O
 
 ## Author(s)
 
-Name: Alexandra Curry
+Name: Alexandra Curry  
 Email: [acc668@nau.edu]
 
 ## Known Issues
