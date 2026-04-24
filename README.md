@@ -25,13 +25,6 @@ A 3D-printable model of the Aetheryte crystal from Final Fantasy XIV, built in O
 | Crystal | 10% | 0.2mm | 2 | Pin is small but shells fill it naturally |
 | Ring | 10% | 0.2mm | 2 | Support bars increased to 3mm diameter for printability |
 
-## Print Notes
-
-- Recommended filament: PLA or PLA+
-- Print the base and collar flat on the bed
-- Print the crystal and ring upright
-- A `tolerance` variable at the top of each file can be adjusted if fits are too tight or too loose (default: 0.4mm)
-
 ## Author(s)
 
 Name: Alexandra Curry  
